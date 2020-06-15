@@ -51,7 +51,7 @@
 1. 随机值 &  伪随机算法。
 2. UDP协议的安全使用方式。
 
-    ![Image text](https://github.com/noseparte/Almost-Famous/blob/master/famous-static/images/u=3188343038,2062745717&fm=173&app=25&f=JPEG.jpg?raw=true)
+    ![Image text](https://github.com/AwakenCN/Almost-Famous/blob/master/famous-static/images/u=3188343038,2062745717&fm=173&app=25&f=JPEG.jpg?raw=true)
 
 
 ```
@@ -120,3 +120,6 @@
 1.帧同步的开发为什么比状态同步要快？ 为什么可以节省服务器的时间？。
 
 2.LoL之前也是用的帧同步方式，为什么他后期做了修改？
+
+
+> https://www.jianshu.com/p/8cca5458c45b
